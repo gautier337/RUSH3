@@ -1,0 +1,6 @@
+*.out
+gkrellm
+.vscode
+.idea
+myGKrellM
+*.o

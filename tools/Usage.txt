@@ -1,0 +1,23 @@
+                            RUSH 3                      
+
+NAME
+    MyGKrellm
+
+USAGE
+    ./MyGKrellm
+
+DESCRIPTION
+    See your process, your CPU, RAM and more
+    take no arguments, or use the -h option to display this help and exit
+    press Q or Alt+F4 to exit the window
+
+USER INTERACTIONS:
+    directions key: move the player in the direction they point to
+    [UP]
+    [DOWN]
+    [LEFT]
+    [RIGHT]
+    [Q]; quit
+
+Author:
+    Elouan, Gauhtier, Nils, Xavier
